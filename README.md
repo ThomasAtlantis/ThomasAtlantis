@@ -1,4 +1,3 @@
-<img width=40% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasAtlantis&layout=compact" />
 <p>🔥 In my fourth year of Ph.D in Shanghai Jiao Tong University </p>
 <p>🔥 Currently interested in <strong>dynamic neural networks</strong>, <strong>device-cloud collaboration</strong> and <strong>federated learning</strong></p>
 <p>🔥 Love and relatively excel at <strong>Poem, Chinese Go, traditional Chinese painting, Chinese calligraphy, seal cutting, guitar</strong></p>
