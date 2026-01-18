@@ -1,82 +1,16 @@
-# Hi there! :wave:
+# :wave: Hi, I'm Shangyu Liu
 
-![](https://i.pinimg.com/736x/58/3f/8c/583f8c1925b4b3a34e17ec8fa4df1f48.jpg)
+[![Website](https://img.shields.io/badge/Website-qingchuan.online-093270?style=flat&logo=Google-Chrome&logoColor=white)](https://qingchuan.online)
+[![Google Scholar](https://img.shields.io/badge/Scholar-ShangyuLiu-3688BF?style=flat&logo=Google-Scholar)]([https://scholar.google.com/citations?user=XXXXX](https://scholar.google.com/citations?user=KPhwkvAAAAAJ&hl=en))
+[![Zhihu](https://img.shields.io/badge/Zhihu-@Qingchuan-0F5CA4?style=flat&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/qing_chuan)
+[![Wechat Official](https://img.shields.io/badge/WechatOfficial-@HalfAwakeJourney-67ACD5?style=flat&logo=wechat&logoColor=white)](http://mp.weixin.qq.com/mp/homepage?__biz=MzkzMzQ0MTA5NA==&hid=1&sn=62b4cdfc8d34308524ee13e99253b34b&scene=18)
 
-## About Me
-<p>:school: I'm in my fifth year of Ph.D in Shanghai Jiao Tong University </p>
-<p>:smiling_face_with_three_hearts: I'm currently interested in <strong>retrieval-augmented large language model, </strong><strong>dynamic neural networks</strong>, <strong>device-cloud collaboration</strong> and <strong>federated learning</strong></p>
-<p>:writing_hand: I'm a <strong>tech-blogger</strong> with 10,000+ followers</p>
-<p>🌐 I'm an individual website operator for 6 years</p>
-<p>🕋 I'm an administrator of GPU server clusters for 4 years</p>
+:school: Ph.D candidate in Computer Science @ Shanghai Jiao Tong University
 
-## Hobbies
-<p>
-<img style="margin: 10px" src="https://img.shields.io/badge/Poem-1679A8?style=flat" height="20">
-<img style="margin: 10px" src="https://img.shields.io/badge/Chinese Go-1679A8?style=flat" height="20">
-<img style="margin: 10px" src="https://img.shields.io/badge/Traditional Chinese Painting-1679A8?style=flat" height="20">
-<img style="margin: 10px" src="https://img.shields.io/badge/Chinese Calligraphy-1679A8?style=flat" height="20">
-<img style="margin: 10px" src="https://img.shields.io/badge/Seal Cutting-1679A8?style=flat" height="20">
-<img style="margin: 10px" src="https://img.shields.io/badge/Guitar-1679A8?style=flat" height="20">
-</p>
+:smiling_face_with_three_hearts: Researcher interested in {LLM System, Dynamic Neural Networks, Device-Cloud Collaboration}
 
-## Technology Stack 
-<table>
-<tr>
-  <th align="left">Deep Learning</th>
-  <th align="left">Languages</th>
-  <th align="left">Web Front-end/Back-end</th>
-  <th align="left">Hardware Development</th>
-  <th align="left">Reverse Engineering</th>
-</tr>
-<tr><td valign="top">
-<div align="left">
-  <img style="margin: 10px" src="https://img.shields.io/badge/PyTorch-1679A8?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/JAX-1679A8?style=flat" alt="JAX" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/TensorFlow-1679A8?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/HuggingFace-1679A8?style=flat&logo=huggingface&logoColor=white" alt="HuggingFace" height="20">
-</div>
+:writing_hand: [Tech-blogger](https://www.zhihu.com/people/qing_chuan) with 10,000+ followers, interested in underlying principles
 
-</td><td valign="top">
-<div align="left">  
-  <img style="margin: 10px" src="https://img.shields.io/badge/Python-1679A8?style=flat&logo=Python&logoColor=white" alt="Python" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/C-1679A8?style=flat&logo=C&logoColor=white" alt="C" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/C++-1679A8?style=flat&logo=C++&logoColor=white" alt="C++" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/Java-1679A8?style=flat&logo=Java&logoColor=white" alt="Java" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-1679A8?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript" height="20">
-</div>
+:globe_with_meridians: [Individual website](https://qingchuan.online) operator for 9 years
 
-</td><td valign="top">
-<div align="left">  
-  <img style="margin: 10px" src="https://img.shields.io/badge/JQuery-1679A8?style=flat&logo=JQuery&logoColor=white" alt="JQuery" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/Bootstrap-1679A8?style=flat&logo=Bootstrap&logoColor=white" alt="Bootstrap" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/Redis-1679A8?style=flat&logo=Redis&logoColor=white" alt="Redis" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/Django-1679A8?style=flat&logo=Django&logoColor=white" alt="Django" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/Flask-1679A8?style=flat&logo=Flask&logoColor=white" alt="Flask" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-1679A8?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/Docker-1679A8?style=flat&logo=Docker&logoColor=white" alt="Docker" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/SQLite-1679A8?style=flat&logo=SQLite&logoColor=white" alt="SQLite" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/Nginx-1679A8?style=flat&logo=Nginx&logoColor=white" alt="Nginx" height="20">
-</div>
-
-</td>
-</td>
-<td valign="top">
-<div align="left">
-  <img style="margin: 10px" src="https://img.shields.io/badge/STC89C51-1679A8?style=flat" alt="STC89C51" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/NVIDIA Jetson Nano-1679A8?style=flat&logo=nvidia&logoColor=white" alt="NVIDIA Jetson Nano" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/ESP32/8266-1679A8?style=flat" alt="ESP32/8266" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/STM32-1679A8?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/Arduino-1679A8?style=flat&logo=Arduino&logoColor=white" alt="Arduino" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/Raspberry Pi-1679A8?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/FPGA-1679A8?style=flat" alt="FPGA" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/SolidWorks-1679A8?style=flat&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" height="20">
-</div>
-</td><td valign="top">
-<div align="left">
-  <img style="margin: 10px" src="https://img.shields.io/badge/Crawling-1679A8?style=flat" alt="Crawling" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/Wireshark-1679A8?style=flat&logo=Wireshark&logoColor=white" alt="Wireshark" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/Decompile-1679A8?style=flat" alt="Decompile" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/Charles-1679A8?style=flat&logo=Charles&logoColor=white" alt="Charles" height="20">
-  <img style="margin: 10px" src="https://img.shields.io/badge/Assembly-1679A8?style=flat&logo=atandt&logoColor=white" alt="Assembly" height="20">
-</div>
-</td></tr></table>  
+:cloud: Administrator of GPU server clusters for 5 years
